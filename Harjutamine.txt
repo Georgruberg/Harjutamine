@@ -1,2 +1,4 @@
 Githubi kasutatakse versioonihalduseks ettevõtte või projekti siseselt, et hõlbustada mitme inimese koostööd sama projektiga.
 Selles saab liikuda muudatuste ajaloos tagasi ning uuendused panna üle vaatamiseks valmis enne kui nad reaalselt töösse pannakse.
+
+Kuna osalen Java programmeerimise kursusel nädalavahetustel, siis hakkan seda kasutama grupitöödes ning kui saan tööd tarkvara arenduses siis ka tööjuures.
