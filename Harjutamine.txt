@@ -1,1 +1,2 @@
-
+Githubi kasutatakse versioonihalduseks ettevõtte või projekti siseselt, et hõlbustada mitme inimese koostööd sama projektiga.
+Selles saab liikuda muudatuste ajaloos tagasi ning uuendused panna üle vaatamiseks valmis enne kui nad reaalselt töösse pannakse.
